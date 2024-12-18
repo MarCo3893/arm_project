@@ -1,0 +1,56 @@
+web-scraper-order,web-scraper-start-url,Price_raw,City_raw,Discipline_raw,Title_raw,Description_raw,breed,sex,age,height,colour,price
+1733932050-1,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"40,000 € bis 70,000 €",Sint-Martens-Lennik,Springen,,"Holsteiner, Wallach, 7 Jahre, 169 cm, Schwarzbrauner",Holsteiner,Wallach,7.0,169.0,Schwarzbrauner,55000.0
+1733932050-2,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"15,000 €",Meerhout,Dressur,,"Belgisches Warmblut, Stute, 5 Jahre, 174 cm, Rappe",Belgisches Warmblut,Stute,5.0,174.0,Rappe,15000.0
+1733932050-3,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"20,000 € bis 40,000 €",Pulheim,"Dressur - Zucht - Springen - Freizeit
+                
+                    
+                    Gestüt Geuchberg",Vielversprechender gekörter Hengst von Fusionist,"Hannoveraner, Hengst, 4 Jahre, 168 cm, Brauner",Hannoveraner,Hengst,4.0,168.0,Brauner,30000.0
+1733932050-4,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"7,900 €",Pedralba,Dressur - Working Equitation - Barock - Vielseitigkeit,,"PRE, Hengst, 3 Jahre, 165 cm, Apfelschimmel",PRE,Hengst,3.0,165.0,Apfelschimmel,7900.0
+1733932050-5,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"30,000 €",Coruche,"Dressur - Schau - Barock - Zucht
+                
+                    
+                    Horseliberty Lucia Amelie",,"Lusitanos, Hengst, 4 Jahre, 161 cm, Schimmel",Lusitanos,Hengst,4.0,161.0,Schimmel,30000.0
+1733932050-6,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"3,450 € VB",Achtmaal,"Freizeit
+                
+                    
+                    Stal Doorstap",,"Sonstige Rassen, Stute, 12 Jahre, 163 cm, Fuchs",Sonstige Rassen,Stute,12.0,163.0,Fuchs,3450.0
+1733932050-7,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"20,000 € bis 40,000 €",Lissabon,"Dressur - Working Equitation - Zucht
+                
+                    
+                    Udo Sauerzapf",Grossrahmiger Lusitano mit sehr viel Potential,"Lusitanos, Hengst, 3 Jahre, 168 cm, Brauner",Lusitanos,Hengst,3.0,168.0,Brauner,30000.0
+1733932050-8,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"10,000 € bis 15,000 €",Cegléd,Dressur,Weihnachten Aktion,"Hannoveraner, Wallach, 8 Jahre, 167 cm, Brauner",Hannoveraner,Wallach,8.0,167.0,Brauner,12500.0
+1733932050-9,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"15,000 € bis 20,000 €",Cegléd,Springen - Hunter - Dressur,Verkauf eines außergewöhnlichen Sportpferdes,"Deutsches Sportpferd, Wallach, 8 Jahre, 168 cm, Schimmel",Deutsches Sportpferd,Wallach,8.0,168.0,Schimmel,17500.0
+1733932050-10,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"10,000 € bis 15,000 €",Cegléd,Dressur,Toll Dressur wallach,"KWPN, Wallach, 6 Jahre, 172 cm, Rappe",KWPN,Wallach,6.0,172.0,Rappe,12500.0
+1733932050-11,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"10,000 € bis 15,000 €",Cegléd,Dressur,Top stute zu hause,"Hannoveraner, Stute, 5 Jahre, 165 cm, Dunkelbrauner",Hannoveraner,Stute,5.0,165.0,Dunkelbrauner,12500.0
+1733932050-12,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"10,000 € bis 15,000 €",Cegléd,Dressur,4-Jahr exclusive Dressur stute,"Hannoveraner, Stute, 4 Jahre, 168 cm, Rappe",Hannoveraner,Stute,4.0,168.0,Rappe,12500.0
+1733932050-13,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"14,900 €",Karlsfeld,Dressur - Freizeit,"Bildschöne Stute, Dressur, in seltener Farbe mit top Abstammung!","Deutsches Sportpferd, Stute, 5 Jahre, 170 cm, Dunkelfuchs",Deutsches Sportpferd,Stute,5.0,170.0,Dunkelfuchs,14900.0
+1733932050-14,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"4,300 € VB",Burgstall,Springen - Schau - Freizeit,"Großrahmiger, typvoller Allrounder","Deutsches Sportpferd, Hengst, 1 Jahr, 172 cm, Brauner",Deutsches Sportpferd,Hengst,1.0,172.0,Brauner,4300.0
+1733932050-15,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"4,400 € VB",Burgstall,Springen - Schau - Freizeit,"Umgänglicher, gut gezogener Deutscher Sportpferde Jährling","Deutsches Sportpferd, Hengst, 1 Jahr, 168 cm, Brauner",Deutsches Sportpferd,Hengst,1.0,168.0,Brauner,4400.0
+1733932050-16,https://www.ehorses.de/search?dum=dum&land=4?pn=446,"12,500 € VB",Ehndorf,"Gang
+                
+                    
+                    Gestüt Heesberg",Deutschgezogener 4-Gangwallach,"Islandpferd, Wallach, 5 Jahre, 137 cm, Rappschimmel",Islandpferd,Wallach,5.0,137.0,Rappschimmel,12500.0
+1733932050-17,https://www.ehorses.de/search?dum=dum&land=4?pn=446,Preis auf Anfrage,München,"Reining - Western allround - Western - Decken
+                
+                    
+                    Nina Michalk",BEAUTIFUL STUD COLT YEARLING BY GUNNATRASHYA,"American Quarter Horse, Hengst, 1 Jahr, Fuchs",American Quarter Horse,Hengst,1.0,,,
+1733932050-18,https://www.ehorses.de/search?dum=dum&land=4?pn=446,Preis auf Anfrage,München,"Western - Western allround - Working Equitation - Reining
+                
+                    
+                    Nina Michalk",MRS. SMOKEY ! Sie ist der PERFEKTE ALLROUNDER!,"American Quarter Horse, Stute, 2 Jahre, 153 cm, Brauner",American Quarter Horse,Stute,2.0,153.0,Brauner,
+1733932050-19,https://www.ehorses.de/search?dum=dum&land=4?pn=446,Preis auf Anfrage,München,"Reining - Western allround - Western
+                
+                    
+                    Nina Michalk",FUTURITY PROSPECT - 2Y OLD STALLION BY GUNNATRASHYA,"American Quarter Horse, Hengst, 2 Jahre, 155 cm, Fuchs",American Quarter Horse,Hengst,2.0,155.0,Fuchs,
+1733932050-20,https://www.ehorses.de/search?dum=dum&land=4?pn=446,Preis auf Anfrage,München,"Reining - Western allround - Versatility Ranch Horse - Western
+                
+                    
+                    Nina Michalk",STUNNING 4 month old Filly,"American Quarter Horse, Stute, , Dunkelbrauner",American Quarter Horse,Stute,,,,
+1733932608-4441,https://www.ehorses.de/search?dum=dum&land=4?pn=224,"16,000 € VB",Rosendahl,"Dressur - Zucht - Freizeit
+                
+                    
+                    Diana Eichentopf",Dressurpferd Hann. Rappstute,"Hannoveraner, Stute, 3 Jahre, 165 cm, Rappe",Hannoveraner,Stute,3.0,165.0,Rappe,16000.0
+1733932910-6861,https://www.ehorses.de/search?dum=dum&land=4?pn=103,"10,000 € VB",Wedemark,"Dressur
+                
+                    
+                    Sportpferde Lohhof GmbH",Liebenswerter Dressurnachwuchs von Bon Courage,"Oldenburger, Wallach, 4 Jahre, 175 cm, Brauner",Oldenburger,Wallach,4.0,175.0,Brauner,10000.0
